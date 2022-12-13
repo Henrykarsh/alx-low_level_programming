@@ -3,12 +3,15 @@
 #include <time.h>
 
 /**
- *Main - prints if the number is positive,negative or 0
-*
-*Return : Always 0 (success)
-*/
-
-int main(void)
+ *
+ *  * main - Entry point
+ *
+ *   *
+ *
+ *    * Return: Always 0 (Success)
+ *
+ */
+ int main(void)
 {
 	int n;
 
